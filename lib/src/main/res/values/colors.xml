@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="charge_blue">#008eff</color>
+    <color name="transparent">#00ffffff</color>
+
+    <!-- 进度条渐变  -->
+    <color name="progress_start">#1694fe</color>
+    <color name="progress_center">#5ef4fd</color>
+    <color name="progress_end">#5ef4fd</color>
+</resources>
